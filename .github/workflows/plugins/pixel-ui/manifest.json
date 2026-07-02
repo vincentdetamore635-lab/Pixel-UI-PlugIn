@@ -1,0 +1,12 @@
+{
+  "id": "pixel-ui",
+  "name": "Pixel UI",
+  "description": "Squares off all UI corners and pixelates avatars/images for a retro pixel art feel. Pairs with the Pixel Night theme.",
+  "authors": [
+    {
+      "name": "veobttp"
+    }
+  ],
+  "main": "index.js",
+  "hash": ""
+}
